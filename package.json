@@ -1,0 +1,21 @@
+{
+  "name": "aw2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "node index.mjs"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/joaquinespil-code/AW2.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/joaquinespil-code/AW2/issues"
+  },
+  "homepage": "https://github.com/joaquinespil-code/AW2#readme"
+}
